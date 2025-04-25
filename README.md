@@ -1,6 +1,6 @@
 # Brake Buddy
 
-Hey there,
+Hey there,<br/>
 Break Buddy - a Seamless Bike Service Booking Application.
 
 Checkout the App --> https://brakebuddy.vercel.app
@@ -10,7 +10,7 @@ Checkout the App --> https://brakebuddy.vercel.app
 
 ## Tech Stack
 ### Front-End
-UI : ReactJS
+UI : ReactJS <br/>
 Styling : Tailwind CSS
 
 ### Backend
